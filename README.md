@@ -117,11 +117,6 @@
 ###
 ## Snake Animation
 
-Check out this animated snake!
-
 ![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
-
-This animation is generated using a GitHub Action that updates the image regularly.
-
 
 ###file  
