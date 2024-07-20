@@ -115,9 +115,13 @@
 </div>
 
 ###
+## Snake Animation
 
-<br clear="both">
+Check out this animated snake!
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
+
+This animation is generated using a GitHub Action that updates the image regularly.
+
 
 ###file  
