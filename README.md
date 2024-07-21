@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning *ReactJS*
 
-- 👯 I’m looking to collaborate on *MERN Stack Developer*
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuktaHD](https://github.com/MuktaHD)
 
