@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukta Dapkekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[[https://dribbble.com/shots/16093268-Desktop-Animation](https://dribbble.com/shots/16093268-Desktop-Animation/attachments/7943224?mode=media)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw1lvZ-1nwoN3MFsZi_92n-y&ust=1721674603859000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICArfPnuIcDFQAAAAAdAAAAABAl)">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/GYny.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muktahd&label=Profile%20views&color=0e75b6&style=flat" alt="muktahd" /> </p>
 
