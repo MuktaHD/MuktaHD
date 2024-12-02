@@ -3,12 +3,12 @@
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/GYny.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muktahd&label=Profile%20views&color=0e75b6&style=flat" alt="muktahd" /> </p>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muktahd&theme=radical&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=muktahd&theme=radical&column=6&margin-w=15&margin-h=15&titles=MultiLanguage,LongTimeUser,Stars,Reviews,Followers,Repositories" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 
 <h2 align="left">Hi 👋! My name is Mukta Dapkekar and I'm a frontend developer, from India.</h2>
